@@ -13,10 +13,10 @@ import jakarta.mail.internet.MimeMessage;
 public class EmailUtil {
 
     private static final String FROM_EMAIL =
-            "ikishwar567@gmail.com";
+            "YOUR_EMAIL";
 
     private static final String APP_PASSWORD =
-            "tuqn vuic dkow munp";
+            "YOUR_APP_PASSWORD";
 
     public static void sendEmail(
             String to,
